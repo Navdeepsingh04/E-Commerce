@@ -3,11 +3,12 @@ import ProjectList from "../features/projectList/projectList";
 
 
 
+
 function Home() {
     return ( 
         <div>
         <NavBar>
-          <ProductList></ProductList>
+          <ProjectList></ProjectList>
         </NavBar>
 
         </div>
