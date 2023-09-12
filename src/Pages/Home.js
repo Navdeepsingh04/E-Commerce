@@ -1,5 +1,6 @@
 import NavBar from "../features/navBar/NavBar";
-import ProjectList from "../features/projectList/projectList";
+import ProductList from "../features/projectList/components/ProductList";
+
 
 
 
@@ -8,7 +9,7 @@ function Home() {
     return ( 
         <div>
         <NavBar>
-          <ProjectList></ProjectList>
+          <ProductList></ProductList>
         </NavBar>
 
         </div>
