@@ -1,5 +1,5 @@
 import NavBar from "../features/navBar/NavBar";
-import ProductDetail from "../features/projectList/components/ProductDetails";
+import ProductDetail from "../features/project/components/ProductDetails";
 
 
 
